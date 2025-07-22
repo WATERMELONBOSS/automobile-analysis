@@ -1,13 +1,13 @@
-# 🚗 Analysis of Trends in the Automobile Industry Using BI & ML
+# Analysis of Trends in the Automobile Industry Using BI & ML
 
 This project is part of my internship at **Koniggtronics**, where I developed a data-driven system to analyze trends in the automobile sector using **Business Intelligence** and **Machine Learning**.
 
-## 🖼 Sample Output
+## Sample Output
 
-### 📌 Correlation Heatmap
+### Correlation Heatmap
 ![Vehicle Make](https://github.com/WATERMELONBOSS/automobile-analysis/blob/fe9d20b7eaee556967338b6f803eddbd43b85094/demo%201.png?raw=true)
 
-### 📌 Plots
+### Plots
 ![Heatmap](https://github.com/WATERMELONBOSS/automobile-analysis/blob/fe9d20b7eaee556967338b6f803eddbd43b85094/demo%202.png?raw=true)
 
 ## 🔍 Key Features
